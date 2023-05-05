@@ -6,4 +6,4 @@ Abstract – The dataset titled "Predicting Graduate School Admission" presents 
 
 Please download Jupyter notebook `Predicting Graduate School Admission Using Machine Learning Algorithms.ipynb` to view all results because some plots don't appear in the browser version.
 
-You can view the whole result at [here](https://github.com/CompuSalle/School-Admission-Using-Machine-Learning-Algorithms/blob/main/screencapture-Machine-Learning-Algorithms-ipynb.pdf)
+You can also view the whole work without downloading it at [here](https://github.com/CompuSalle/School-Admission-Using-Machine-Learning-Algorithms/blob/main/screencapture-Machine-Learning-Algorithms-ipynb.pdf)
